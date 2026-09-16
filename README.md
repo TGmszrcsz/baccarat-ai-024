@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：概率解读
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 023 篇 - 百家乐Ai预测分析工具：最高分为什么不等于确定结果](https://github.com/TGmszrcsz/baccarat-ai-023) ｜ [下一篇：第 025 篇 - 百家乐Ai预测分析工具：缺少输出时不要补写一个预测方向](https://github.com/TGmszrcsz/baccarat-ai-025)
+
+<!-- article-chain:end -->
+
 页面在两项很接近时仍突出一种颜色，造成过强暗示。本篇围绕“接近分数的输出适合怎样呈现”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、为什么值得单独检查
